@@ -16,3 +16,5 @@ Notes
    These look like function calls but they aren't, they are application/kernel interfaces.
 
 2. Kernighan and Ritchie (K&R) book is good for learning C
+
+3.
